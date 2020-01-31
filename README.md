@@ -13,9 +13,11 @@ It's a platform for developers to design some  github web pages using some tools
 
 In order to publish github pages in cloud we require some mandatory tools
 
-Internet connection in order to create a repo
 
-Visual studios for editing the code
+
+Internet connection in order to create a repo
+[tortisegit](https://tortoisegit.org/) used to push and pull the code into/from the cloud.
+[Visual studios](https://visualstudio.microsoft.com/) is an editor to edit or create a code.
  
 clone to copy the code
 
