@@ -41,10 +41,13 @@ In order to publish github pages in cloud
 3.[code Academy](https://www.codecademy.com/learn/learn-php)
 
 
-##Contributors
+## Contributors
 
 Minupuri Bhaskar Reddy
+
+
 Ms-Acs programme
+
 
 
 ![Lord Tyrion](https://i1.wp.com/metro.co.uk/wp-content/uploads/2018/09/game-of-thrones-peter-dinklage-main-c7c0.jpg?quality=90&strip=all&zoom=1&resize=644%2C322&ssl=1)
