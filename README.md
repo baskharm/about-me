@@ -2,7 +2,7 @@
 
 ## Repository Links:
 
-- [ source repo](https://github.com/Bhaskar2909)
+- [ source repo](https://github.com/Bhaskar2909/about-me)
 
 - [Hosted page]( https://bhaskar2909.github.io/about-me/)
 
