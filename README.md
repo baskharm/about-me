@@ -3,7 +3,7 @@
 # developer site
 
 - [repo](https://github.com/Bhaskar2909)
-- [site]()
+- [site](https://github.com/Bhaskar2909/about-me/edit/master/README.md)
 
 # About
 
@@ -25,7 +25,11 @@ markdown, is an another editor to edi the code
 # Recomended  Resource 
 
 1.[w3Schools](https://www.w3schools.com/html/default.asp)
+
+
 2.[java Script](https://javascript.info/)
+
+
 3.[code Academy](https://www.codecademy.com/learn/learn-php)
 
 
