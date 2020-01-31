@@ -4,7 +4,7 @@
 
 - [ source repo](https://github.com/Bhaskar2909)
 
-- [Hosted page](https://github.com/Bhaskar2909/about-me/edit/master/README.md)
+- [Hosted page]( https://bhaskar2909.github.io/about-me/)
 
 ## About
 
