@@ -1,0 +1,130 @@
+body {
+  padding: 50px 100px;
+  font-family: 'Roboto Condensed', sans-serif;
+  background: #eee;
+  text-align: center;
+}
+.container {
+    margin-top: 20px;
+}
+/*INDEX PAGE CSS*/
+nav.main-menu {
+    list-style: none;
+    display: inline-flex;
+    float: right;
+    background: #0000009e;
+    width: 543px;
+}
+
+.main-menu a {
+    font-weight: 700;
+    color: white;
+    padding: 20px;
+    text-transform: uppercase;
+    width: 214px;
+}
+
+
+
+.main-menu a:hover {
+    color: red;
+    font-weight: 800;
+    text-decoration: none;
+}
+
+/*profile pic css*/
+
+.profile img {
+    width: 200px;
+    border-radius: 100px;
+    border: 1px solid #e1dada;
+    box-shadow: 1px 1px 1px #9f9f93;
+}
+
+.profile_info {
+    text-align: left;
+    margin: 106px 0 0 24px;
+    display: block;
+}
+
+.img_info h3 {
+    text-align: left;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+
+/*banner css*/
+
+
+.bg-img img {
+    width: 472px;
+}
+.bg-img {
+    float: right;
+}
+
+/*video*/
+
+td {
+    padding-left: 25px;
+}
+/*social links*/
+
+.social_links img.icon {
+    width: 20px;
+}
+
+ul.social_links {
+    display: flex;
+    float: right;
+    list-style: none;
+}
+
+.social_links li {
+    padding: 15px;
+}
+
+/*contact page*/
+
+.form-group.gender {
+    display: flex;
+}
+.form-group.gender span {
+    margin-right: 30px;
+}
+
+.col-lg-12.dropdown {
+    text-align: left;
+}
+.dropdown select {
+    padding: 5px;
+}
+
+.contact-form .col-lg-12 {
+    margin-top: 15px !important;
+}
+
+.contact-form {
+    border-radius: 5px;
+    background: #767e7e;
+    padding: 32px;
+    box-shadow: 3px 3px 3px #ccbebe;
+}
+
+/*dev sec*/
+
+.dev_dec
+{
+	margin-top: 40px;
+}
+
+p {
+    font-family: sans-serif;
+    line-height: 22px;
+}
+
+footer {
+   
+    margin-top: 100px;
+}
