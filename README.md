@@ -2,9 +2,6 @@
 
 ## Repository Links:
 
-- [ source repo](https://github.com/Bhaskar2909/about-me)
-
-- [Hosted page]( https://bhaskar2909.github.io/about-me/)
 
 ## About
 
@@ -52,9 +49,6 @@ In order to publish github pages in cloud
 
 
 ## Contributors:
-
-
-Minupuri Bhaskar Reddy
 
 
 Ms-Acs programme
